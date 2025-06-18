@@ -1,0 +1,13 @@
+{
+  "name": "apires",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Gustavo Adolfo Acosta Vazquez",
+  "license": "ISC",
+  "description": ""
+}
+
