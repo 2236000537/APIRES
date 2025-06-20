@@ -8,6 +8,8 @@
   "keywords": [],
   "author": "Gustavo Adolfo Acosta Vazquez",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "mongoose": "^8.16.0"
+  }
 }
-
