@@ -8,7 +8,7 @@ module.exports={
         return mongoose.connect(config.DB)
         .then(conn =>{
             this.connect = conn
-            console.log ('SErealiso de manera correcta');
+            console.log ('Se conecto de manera correcta');
 
         })
         .catch(e =>{console.log('errpr en la conexion', e)})
