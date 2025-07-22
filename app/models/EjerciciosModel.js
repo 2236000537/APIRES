@@ -3,20 +3,20 @@ const mongoose= require('mongoose')
 const ejercicioEsquema = mongoose.Schema ({
     nombre:{
 type:String,
-require:true
+required:true
     },
     tipo :{
 type:String,
-require:true
+required:true
     },
     duracion:{
  type:Number,
-require:true
+required:true
 
     },
     calorias:{
 type:Number,
-require:true
+required:true
 
     }
 })
